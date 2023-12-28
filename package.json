@@ -1,0 +1,46 @@
+{
+  "name": "webgl-fundamentals",
+  "version": "0.0.0",
+  "description": "Some WebGL Tutorials designed for real WebGL and not 20yr old OpenGL",
+  "main": "index.js",
+  "dependencies": {
+    "feed": "^0.2.6",
+    "glob": "^4.0.2",
+    "htmlparser2": "^3.7.2",
+    "inmemfilecache": "0.0.1",
+    "marked": "git://github.com/greggman/marked.git#raw-html",
+    "minimist": "^0.1.0",
+    "mout": "^0.9.1",
+    "promise": "^5.0.0",
+    "sitemap": "^0.7.4"
+  },
+  "devDependencies": {
+    "eslint-plugin-google-camelcase": "0.0.1",
+    "eslint-plugin-html": "git+https://github.com/greggman/eslint-plugin-html.git#fix-space-eating",
+    "eslint-plugin-one-variable-per-var": "0.0.3",
+    "eslint-plugin-optional-comma-spacing": "0.0.4",
+    "eslint-plugin-require-trailing-comma": "0.0.1",
+    "grunt": "^0.4.5",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-eslint": "^10.0.0",
+    "grunt-jsdoc": "^0.5.7",
+    "handlebars": "^3.0.2",
+    "hanson": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/greggman/webgl-fundamentals.git"
+  },
+  "keywords": [
+    "WebGL"
+  ],
+  "author": "Gregg Tavares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greggman/webgl-fundamentals/issues"
+  },
+  "homepage": "https://github.com/greggman/webgl-fundamentals"
+}
